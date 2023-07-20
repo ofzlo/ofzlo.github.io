@@ -26,7 +26,6 @@ Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the devel
 # 📝 Publications 
 To be updated ...
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 # 💡Project
 To be updated ...
