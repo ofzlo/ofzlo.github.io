@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the development of technologies that facilitate the coexistence of humans and artificial intelligence in society. Currently, I am working as a Student Intern (Assistant Researcher) at [ETRI](https://www.etri.re.kr/eng/main/main.etri), and [Aerosol & Colloid Lab](https://youngsoojoung.wixsite.com/aerosol). My passion lies in the field of computer vision, with a particular focus on generative AI.
+Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the development of technologies that facilitate the coexistence of humans and artificial intelligence in society. Currently, I am working as a Student Intern (Assistant Researcher) at [ETRI](https://www.etri.re.kr/eng/main/main.etri), and advisor at [Aerosol & Colloid Lab](https://youngsoojoung.wixsite.com/aerosol). My passion lies in the field of computer vision, with a particular focus on generative AI.
 
 
 # 🔥 News
@@ -26,17 +26,19 @@ Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the devel
 # 📝 Publications 
 To be updated ...
 
-
 # 💡Project
-To be updated ...
+- *2023.06*: Compression and Change Registration Network with RegGAN
+- *2023.01 - 2023.06*: Folder [[code](https://github.com/dsc-sookmyung/2023-four-tter-SolutionChallenge)]
+- *2022.05 - 2022.12*: Detecting White Blood Cells (WBCs) in microscopic images by using YOLOv5 [paper]
 
 # 🎖 Honors and Awards
-- *2023.05* Global Top 100, Google the Solution Challenge 
-- *2022.10* Excellence Award, Shinhan Bigdata Hackathon (Data Analystics Division)
-- *2022.08* Excellence Award, Sookmyung Software Hackathon
+- *2023.05*, Global Top 100, Google the Solution Challenge 
+- *2022.10*, Excellence Award, Shinhan Bigdata Hackathon (Data Analystics Division)
+- *2022.08*, Excellence Award, Sookmyung Software Hackathon
 
 # 📖 Educations
 - *2019.03 - present*, Sookmyung Women's University, Bachelor of Engineering, Department of Software Convergence 
 
 # 💻 Internships
 - *2023.07 - 2023.08*, Visual Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
+- *2022.05 - 2022.12*, Aerosol & Colloid Lab @ Sookmyung Women's Univ.
