@@ -41,4 +41,4 @@ To be updated ...
 
 # 💻 Internships
 - *2023.07 - 2023.08*, Visual Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
-- *2022.05 - 2022.12*, Aerosol & Colloid Lab @ Sookmyung Women's Univ.
+- *2022.05 - 2022.12*, Aerosol & Colloid Lab @ [Sookmyung Women's Univ.](https://e.sookmyung.ac.kr/sookmyungen/index.do)
