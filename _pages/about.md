@@ -30,7 +30,7 @@ To be updated ...
 # 💡Project
 - *2023.06*: Compression and Change Registration Network with RegGAN
 - *2023.01 - 2023.06*: Folder [[code](https://github.com/dsc-sookmyung/2023-four-tter-SolutionChallenge)]
-- *2022.05 - 2022.12*: Detecting White Blood Cells (WBCs) in microscopic images by using YOLOv5 [paper]
+- *2022.05 - 2022.12*: Detecting White Blood Cells (WBCs) in microscopic images by using YOLOv5
 
 # 🎖 Honors and Awards
 - *2023.05*, Global Top 100, Google the Solution Challenge 
