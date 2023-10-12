@@ -41,5 +41,6 @@ To be updated ...
 - *2019.03 - present*, Sookmyung Women's University, Bachelor of Engineering, Department of Software Convergence 
 
 # 💻 Internships
+- *2023.10 - present*, Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ.](https://www.skku.edu/eng/)
 - *2023.07 - 2023.08*, Visual Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
 - *2022.05 - 2022.12*, Aerosol & Colloid Lab @ [Sookmyung Women's Univ.](https://e.sookmyung.ac.kr/sookmyungen/index.do)
