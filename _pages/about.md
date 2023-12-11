@@ -25,7 +25,9 @@ Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the devel
 - *2023.05*: 🎉🎉 Team 'Four-tter' was selected 2023 Google the Solution Challenge Global Top 100. 
 
 # 📝 Publications 
-To be updated ...
+- #### KOALA: Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis
+  Youngwan Lee, Kwanyong Park, **Yoorhim Cho**, Yong-Ju Lee, Sung Ju Hwang   
+  arXiv, 2023 | [[Project page]](https://youngwanlee.github.io/KOALA/) | [[paper]](https://arxiv.org/abs/2312.04005) | [[code]](https://github.com/youngwanLEE/sdxl-koala)   
 
 # 💡Project
 - *2023.06*: Compression and Change Registration Network with RegGAN
