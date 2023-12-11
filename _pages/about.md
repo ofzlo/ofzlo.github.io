@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the development of technologies that facilitate the coexistence of humans and artificial intelligence in society. Currently, I am working as a Student Intern (Assistant Researcher) at [ETRI](https://www.etri.re.kr/eng/main/main.etri), and advisor at [Aerosol & Colloid Lab](https://youngsoojoung.wixsite.com/aerosol). My passion lies in the field of computer vision, with a particular focus on generative AI.
+Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the development of technologies that facilitate the coexistence of humans and artificial intelligence in society. Currently, I'm a student intern at [Artificial Intelligence and Media(AIM) Lab](https://aim.skku.edu/home). Currently, I'm interested in computer vision, multi-modal learning, and generative AI.
 
 
 # 🔥 News
