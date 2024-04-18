@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the development of technologies that facilitate the coexistence of humans and artificial intelligence in society. Currently, I'm a student intern at [Artificial Intelligence and Media(AIM) Lab](https://aim.skku.edu/home). Currently, I'm interested in computer vision, multi-modal learning, and generative AI.
+Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist with humans, and I'm interested in how it understands the world (especially in a three-dimensional world). My research interests include multimodal learning, 3D vision, and efficient learning. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the Artificial and Medial Lab ([AIM Lab](https://aim.skku.edu/home)).
 
 
 # 🔥 News
-- *2023.08*: 🎉🎉 Selected as an 2023-1 academic excellence awardee.
+- *2023.08*: 🎉🎉 Selected as a 2023-1 academic excellence awardee.
 - *2023.05*: 🎉🎉 Team 'Four-tter' was selected 2023 Google the Solution Challenge Global Top 100. 
 
 # 📝 Publications 
@@ -36,13 +36,14 @@ Hi there! I'm Yoorhim Cho. I aspire to be a researcher specializing in the devel
 
 # 🎖 Honors and Awards
 - *2023.05*, Global Top 100, Google the Solution Challenge 
-- *2022.10*, Excellence Award, Shinhan Bigdata Hackathon (Data Analystics Division)
+- *2022.10*, Excellence Award, Shinhan Bigdata Hackathon (Data Analytics Division)
 - *2022.08*, Excellence Award, Sookmyung Software Hackathon
 
 # 📖 Educations
-- *2019.03 - present*, Sookmyung Women's University, Bachelor of Engineering, Department of Software Convergence 
+- *2024.03 - present*, Sungkyunkwan University, M.S Student, Department of Immersive Media Engineering
+- *2019.03 - 2024.02*, Sookmyung Women's University, Bachelor of Engineering, Department of Software Convergence 
 
 # 💻 Internships
-- *2023.10 - present*, Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ.](https://www.skku.edu/eng/)
+- *2023.10 - 2024.02*, Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ.](https://www.skku.edu/eng/)
 - *2023.07 - 2023.08*, Visual Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
 - *2022.05 - 2022.12*, Aerosol & Colloid Lab @ [Sookmyung Women's Univ.](https://e.sookmyung.ac.kr/sookmyungen/index.do)
