@@ -21,7 +21,6 @@ Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist wi
 
 
 # 🔥 News
-- *2024.09*: 🎉🎉 KOALA has been accepted at NeurIPS 2024.
 - *2023.08*: 🎉🎉 Selected as a 2023-1 academic excellence awardee.
 - *2023.05*: 🎉🎉 Team 'Four-tter' was selected 2023 Google the Solution Challenge Global Top 100. 
 
