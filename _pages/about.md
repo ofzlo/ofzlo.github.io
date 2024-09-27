@@ -27,7 +27,7 @@ Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist wi
 # 📝 Publications 
 - #### KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis
   Youngwan Lee, Kwanyong Park, **Yoorhim Cho**, Yong-Ju Lee, Sung Ju Hwang   
-  Conference on Neural Information Processing Systems (NeurIPS) 2024 | [[Project page]](https://youngwanlee.github.io/KOALA/) | [[paper]](https://arxiv.org/abs/2312.04005) | [[code]](https://github.com/youngwanLEE/sdxl-koala)   
+  **Conference on Neural Information Processing Systems (NeurIPS) 2024** | [[Project page]](https://youngwanlee.github.io/KOALA/) | [[paper]](https://arxiv.org/abs/2312.04005) | [[code]](https://github.com/youngwanLEE/sdxl-koala)   
 
 # 💡Project
 - *2023.06*: Compression and Change Registration Network with RegGAN
