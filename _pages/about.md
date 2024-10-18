@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist with humans, and I'm interested in how it understands the world (especially in a three-dimensional world). My research interests include multimodal learning, 3D vision, and efficient learning. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the Artificial and Medial Lab ([AIM Lab](https://aim.skku.edu/home)).
+Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist with humans, and I'm interested in how it understands the world (especially in a three-dimensional world). My research interests include <Strong>Multimodal learning, Parameter efficient learning, and Sensor fusion</strong>. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the Artificial and Medial Lab ([AIM Lab](https://aim.skku.edu/home)).
 
 
 # 🔥 News
+- *2024.10*: 🎉🎉 The Funding for [<deep daiv.>](https://link.tumblbug.com/d4hZse52MNb), the AI magazine I contributed to as an editor, is OUT NOW !!
 - *2023.08*: 🎉🎉 Selected as a 2023-1 academic excellence awardee.
 - *2023.05*: 🎉🎉 Team 'Four-tter' was selected 2023 Google the Solution Challenge Global Top 100. 
 
