@@ -21,6 +21,7 @@ Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist wi
 
 
 # 🔥 News
+- *2025.02*: 🎉🎉 Winner of the Best Poster Presentation Award at IPIU 2025.
 - *2024.10*: 🎉🎉 The Funding for [<deep daiv.>](https://link.tumblbug.com/d4hZse52MNb), the AI magazine I contributed to as an editor, is OUT NOW !!
 - *2023.08*: 🎉🎉 Selected as a 2023-1 academic excellence awardee.
 - *2023.05*: 🎉🎉 Team 'Four-tter' was selected 2023 Google the Solution Challenge Global Top 100. 
@@ -36,6 +37,7 @@ Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist wi
 - *2022.05 - 2022.12*: Detecting White Blood Cells (WBCs) in microscopic images by using YOLOv5
 
 # 🎖 Honors and Awards
+- *2025.02*, Best Poster Presentation Award, IPIU 2025
 - *2023.05*, Global Top 100, Google the Solution Challenge 
 - *2022.10*, Excellence Award, Shinhan Bigdata Hackathon (Data Analytics Division)
 - *2022.08*, Excellence Award, Sookmyung Software Hackathon
