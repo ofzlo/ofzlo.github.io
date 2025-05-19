@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist with humans, and I'm interested in how it understands the world (especially in a three-dimensional world). My research interests include <Strong>Multimodal learning, Parameter efficient learning, and Sensor fusion</strong>. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the Artificial and Medial Lab ([AIM Lab](https://aim.skku.edu/home)).
+Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist with humans, and I'm interested in how it understands the world (especially in a three-dimensional world). My research interests include <Strong>Multimodal learning, Parameter efficient learning, and Sensor fusion</strong>. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the AI and Media Lab ([AIM Lab](https://aim.skku.edu/home)).
 
 
 # 🔥 News
