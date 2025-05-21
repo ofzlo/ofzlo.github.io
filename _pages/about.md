@@ -17,16 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist with humans, and I'm interested in how it understands the world (especially in a three-dimensional world). My research interests include <Strong>Multimodal learning, Parameter efficient learning, and Sensor fusion</strong>. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the AI and Media Lab ([AIM Lab](https://aim.skku.edu/home)).
+Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist with humans, and I'm interested in how it understands the world. My research interests include <Strong>Multimodal learning (especially tactile modality), Parameter efficient learning, and Sensor fusion</strong>. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the AI and Media Lab ([AIM Lab](https://aim.skku.edu/home)).
 
 
 # 🔥 News
 - *2025.02*: 🎉🎉 Winner of the Best Poster Presentation Award at IPIU 2025.
-- *2024.10*: 🎉🎉 The Funding for [<deep daiv.>](https://link.tumblbug.com/d4hZse52MNb), the AI magazine I contributed to as an editor, is OUT NOW !!
+- *2024.10*: 🎉🎉 The Funding for [\<deep daiv.\>](https://link.tumblbug.com/d4hZse52MNb), the AI magazine I contributed to as an editor, successfully completed !!
 - *2023.08*: 🎉🎉 Selected as a 2023-1 academic excellence awardee.
 - *2023.05*: 🎉🎉 Team 'Four-tter' was selected 2023 Google the Solution Challenge Global Top 100. 
 
 # 📝 Publications 
+- #### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data
+  <span style="color:MediumBlue">**Yoorhim Cho**</span><sup>\*</sup>, Hongyeob Kim<sup>\*</sup>, Semin Kim, Youjia Zhang, Yunseok Choi, Sungeun Hong (<sup>\*</sup> Denotes equal contribution)   
+  *arXiv preprint* | [[Project page]](https://aim-skku.github.io/RA-Touch/) | [[paper]](https://arxiv.org/abs/2505.14270) | [[code]](https://github.com/AIM-SKKU/RA-Touch)
 - #### KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis
   Youngwan Lee, Kwanyong Park, <span style="color:MediumBlue">**Yoorhim Cho**</span>, Yong-Ju Lee, Sung Ju Hwang   
   <span style="color:MediumBlue">**NeurIPS 2024**</span> | [[Project page]](https://youngwanlee.github.io/KOALA/) | [[paper]](https://arxiv.org/abs/2312.04005) | [[code]](https://github.com/youngwanLEE/sdxl-koala)   
