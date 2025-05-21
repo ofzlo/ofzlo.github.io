@@ -27,8 +27,9 @@ Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist wi
 - *2023.05*: 🎉🎉 Team 'Four-tter' was selected 2023 Google the Solution Challenge Global Top 100. 
 
 # 📝 Publications 
+<span style="font-size: 0.85em; font-weight: normal;">\* Denotes equal contribution</span>
 - #### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data
-  <span style="color:MediumBlue">**Yoorhim Cho**</span><sup>\*</sup>, Hongyeob Kim<sup>\*</sup>, Semin Kim, Youjia Zhang, Yunseok Choi, Sungeun Hong (<sup>\*</sup> Denotes equal contribution)   
+  <span style="color:MediumBlue">**Yoorhim Cho**</span>*, Hongyeob Kim\*, Semin Kim, Youjia Zhang, Yunseok Choi, Sungeun Hong      
   *arXiv preprint* | [[Project page]](https://aim-skku.github.io/RA-Touch/) | [[paper]](https://arxiv.org/abs/2505.14270) | [[code]](https://github.com/AIM-SKKU/RA-Touch)
 - #### KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis
   Youngwan Lee, Kwanyong Park, <span style="color:MediumBlue">**Yoorhim Cho**</span>, Yong-Ju Lee, Sung Ju Hwang   
