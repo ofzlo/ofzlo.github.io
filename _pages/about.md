@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist with humans, and I'm interested in how it understands the world. My research interests include <Strong>Multimodal learning (especially tactile modality), Parameter efficient learning, and Sensor fusion</strong>. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the AI and Media Lab ([AIM Lab](https://aim.skku.edu/home)).
+Hi there! I'm Yoorhim Cho. My research interests include <Strong>Multimodal learning (especially tactile modality), Parameter efficient learning, and Sensor fusion</strong>. Currently, I'm a M.S. student at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), where I'm advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the AI and Media Lab ([AIM Lab](https://aim.skku.edu/home)).
 
 
 # 🔥 News
@@ -29,7 +29,7 @@ Hi there! I'm Yoorhim Cho. I believe that artificial intelligence can coexist wi
 # 📝 Publications 
 <span style="font-size: 0.85em; font-weight: normal;">\* Denotes equal contribution</span>
 - #### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data
-  <span style="color:MediumBlue">**Yoorhim Cho**</span>*, Hongyeob Kim\*, Semin Kim, Youjia Zhang, Yunseok Choi, Sungeun Hong      
+  <span style="color:MediumBlue">**Yoorhim Cho**</span>\*, Hongyeob Kim\*, Semin Kim, Youjia Zhang, Yunseok Choi, Sungeun Hong      
   *arXiv preprint* | [[Project page]](https://aim-skku.github.io/RA-Touch/) | [[paper]](https://arxiv.org/abs/2505.14270) | [[code]](https://github.com/AIM-SKKU/RA-Touch)
 - #### KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis
   Youngwan Lee, Kwanyong Park, <span style="color:MediumBlue">**Yoorhim Cho**</span>, Yong-Ju Lee, Sung Ju Hwang   
